@@ -1,0 +1,7 @@
+tensorflow>=2.10
+pandas
+scikit-learn
+numpy
+joblib
+matplotlib
+imbalanced-learn

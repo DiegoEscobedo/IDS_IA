@@ -1,0 +1,4 @@
+Modelo,Threshold,Accuracy,Precision,Recall ⭐,F1-Score,ROC-AUC,Ataques Detectados,Ataques Perdidos
+CNN v2 + SMOTE,0.60,56.93%,56.93%,100.00%,72.55%,0.2556,12833/12833,0
+LSTM v2 + SMOTE,0.60,56.93%,56.93%,100.00%,72.55%,0.7812,12833/12833,0
+Ensemble v2 (Stacking),0.40,77.20%,75.65%,88.40%,81.53%,0.8037,11345/12833,1488
